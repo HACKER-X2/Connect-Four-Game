@@ -4,8 +4,6 @@ Connect Four is a two-player connection game in which the players first choose a
 
 ---
 
-Project developed at SPICED Academy, July 2019.
-
 # Features
 
 - Settings: possibility to set custom names for the players and choose size of the board (rows: 4-8, columns: 5-10)
